@@ -1,0 +1,275 @@
+\begin{thebibliography}{10}
+
+\bibitem{kuo2015}
+J.~Y. Kuo, H.-F. Yu, K.~F.-R. Liu, and F.-W. Lee,
+\newblock ``Multiagent cooperative learning strategies for pursuit-evasion
+  games,''
+\newblock {\em Mathematical Problesm in Engineering}, 2015.
+
+\bibitem{pmlr-v48-he16}
+H. He, J. Boyd-Graber, K. Kwok, and H.~D. III,
+\newblock ``Opponent modeling in deep reinforcement learning,''
+\newblock in {\em Proceedings of The 33rd International Conference on Machine
+  Learning}, 2016, vol.~48, pp. 1804--1813.
+
+\bibitem{Littman1994}
+M.~L. Littman,
+\newblock ``Markov games as a framework for multi-agent reinforcement
+  learning,''
+\newblock in {\em Proceedings of the 11th International Conference on
+  International Conference on Machine Learning}, 1994, pp. 157--163.
+
+\bibitem{MirowskiPVSBBDG16}
+P. Mirowski, R. Pascanu, F. Viola, H. Soyer, A.~J. Ballard, A. Banino, M.
+  Denil, R. Goroshin, L. Sifre, K. Kavukcuoglu, D. Kumaran, and R. Hadsell,
+\newblock ``Learning to navigate in complex environments,''
+\newblock {\em CoRR}, vol. abs/1611.03673, 2016.
+
+\bibitem{antoniades2003}
+A. Antoniades, H.~J. Kim, and S. Sastry,
+\newblock ``Pursuit-evasion strategies for teams of multiple agents with
+  incomplete information,''
+\newblock pp. 756--761, 2003.
+
+\bibitem{Hespanha01greedycontrol}
+J.~P. Hespanha, G.~J. Pappas, and M. Prandini,
+\newblock ``Greedy control for hybrid pursuit-evasion games,''
+\newblock 2001.
+
+\bibitem{GUIBAS1999}
+L.~J. Guibas, J.-C. Latombe, S.~M. Lavalle, D. Lin, and R. Motwani,
+\newblock ``A visibility-based pursuit-evasion problem,''
+\newblock {\em International Journal of Computational Geometry \&
+  Applications}, vol. 09, pp. 471--493, 1999.
+
+\bibitem{vidal2002}
+R. Vidal, O. Shakernia, H.~J. Kim, D.~H. Shim, and S. Sastry,
+\newblock ``Probabilistic pursuit-evasion games: theory, implementation, and
+  experimental evaluation,''
+\newblock {\em IEEE Transactions on Robotics and Automation}, vol. 18, no. 5,
+  pp. 662--669, 2002.
+
+\bibitem{Parker2002}
+L.~E. Parker,
+\newblock ``Distributed algorithms for multi-robot observation of multiple
+  moving targets,''
+\newblock {\em Autonomous Robots}, vol. 12, no. 3, pp. 231--255, May 2002.
+
+\bibitem{Yong2009}
+C.~H. Yong and R. Miikkulainen,
+\newblock ``Coevolution of role-based cooperation in multiagent systems,''
+\newblock {\em IEEE Trans. on Auton. Ment. Dev.}, vol. 1, no. 3, pp. 170--186,
+  Oct. 2009.
+
+\bibitem{bilgin2015}
+A.~T. Bilgin and E. Kadioglu-Urtis,
+\newblock ``An approach to multi-agent pursuit evasion games using
+  reinforcement learning,''
+\newblock in {\em International Conference on Advanced Robotics}, 2015, pp.
+  164--169.
+
+\bibitem{Zhang2018}
+Q. Zhang, D. Zhao, and F.~L. Lewis,
+\newblock ``Model-free reinforcement learning for fully cooperative multi-agent
+  graphical games,''
+\newblock in {\em 2018 International Joint Conference on Neural Networks},
+  2018, pp. 1--6.
+
+\bibitem{lowe2017multi}
+R. Lowe, Y. Wu, A. Tamar, J. Harb, P. Abbeel, and I. Mordatch,
+\newblock ``Multi-agent actor-critic for mixed cooperative-competitive
+  environments,''
+\newblock {\em Neural Information Processing Systems}, 2017.
+
+\bibitem{hong2018aamas}
+Z.-W. Hong, S.-Y. Su, T.-Y. Shann, Y.-H. Chang, and C.-Y. Lee,
+\newblock ``A deep policy inference q-network for multi-agent systems,''
+\newblock in {\em Proceedings of the 17th International Conference on
+  Autonomous Agents and MultiAgent Systems}, 2018, pp. 1388--1396.
+
+\bibitem{Leibo2017}
+J.~Z. Leibo, V. Zambaldi, M. Lanctot, J. Marecki, and T. Graepel,
+\newblock ``Multi-agent reinforcement learning in sequential social dilemmas,''
+\newblock in {\em Proceedings of the 16th International Conference on
+  Autonomous Agents and MultiAgent Systems}, 2017, pp. 464--473.
+
+\bibitem{mnih2013playing}
+V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonoglou, D. Wierstra, and
+  M. Riedmiller,
+\newblock ``Playing atari with deep reinforcement learning,''
+\newblock {\em arXiv preprint arXiv:1312.5602}, 2013.
+
+\bibitem{silver2017mastering}
+D. Silver, J. Schrittwieser, K. Simonyan, I. Antonoglou, A. Huang, A. Guez, T.
+  Hubert, L. Baker, M. Lai, A. Bolton, et~al.,
+\newblock ``Mastering the game of go without human knowledge,''
+\newblock {\em Nature}, vol. 550, no. 7676, pp. 354, 2017.
+
+\bibitem{liu2009pursuit}
+J. Liu, S. Liu, H. Wu, and Y. Zhang,
+\newblock ``A pursuit-evasion algorithm based on hierarchical reinforcement
+  learning,''
+\newblock in {\em International Conference on Measuring Technology and
+  Mechatronics Automation}, 2009, vol.~2, pp. 482--486.
+
+\bibitem{busoniu2008comprehensive}
+L. Busoniu, R. Babuska, and B. De~Schutter,
+\newblock ``A comprehensive survey of multiagent reinforcement learning,''
+\newblock {\em IEEE Transactions on Systems, Man, And Cybernetics-Part C:
+  Applications and Reviews}, 2008.
+
+\bibitem{tan1993multi}
+M. Tan,
+\newblock ``Multi-agent reinforcement learning: Independent vs. cooperative
+  agents,''
+\newblock in {\em Proceedings of the tenth international conference on machine
+  learning}, 1993, pp. 330--337.
+
+\bibitem{matignon2012independent}
+L. Matignon, G.~J. Laurent, and N. Le~Fort-Piat,
+\newblock ``Independent reinforcement learners in cooperative markov games: a
+  survey regarding coordination problems,''
+\newblock {\em The Knowledge Engineering Review}, vol. 27, no. 1, pp. 1--31,
+  2012.
+
+\bibitem{OmidshafieiPAHV17}
+S. Omidshafiei, J. Pazis, C. Amato, J.~P. How, and J. Vian,
+\newblock ``Deep decentralized multi-task multi-agent reinforcement learning
+  under partial observability,''
+\newblock 2017.
+
+\bibitem{Gupta2017}
+J.~K. Gupta, M. Egorov, and M. Kochenderfer,
+\newblock ``Cooperative multi-agent control using deep reinforcement
+  learning,''
+\newblock in {\em Autonomous Agents and Multiagent Systems}, 2017, pp. 66--83.
+
+\bibitem{Sunehag2018}
+P. Sunehag, G. Lever, A. Gruslys, W.~M. Czarnecki, V. Zambaldi, M. Jaderberg,
+  M. Lanctot, N. Sonnerat, J.~Z. Leibo, K. Tuyls, and T. Graepel,
+\newblock ``Value-decomposition networks for cooperative multi-agent learning
+  based on team reward,''
+\newblock in {\em Proceedings of the 17th International Conference on
+  Autonomous Agents and MultiAgent Systems}, 2018, pp. 2085--2087.
+
+\bibitem{Foerster2018aamas}
+J.~N. Foerster, R.~Y. Chen, M. Al{-}Shedivat, S. Whiteson, P. Abbeel, and I.
+  Mordatch,
+\newblock ``Learning with opponent-learning awareness,''
+\newblock in {\em Proceedings of the 17th Conference on Autonomous Agents and
+  MultiAgent Systems}, 2018, pp. 122--130.
+
+\bibitem{Palmer2018aamas}
+G. Palmer, K. Tuyls, D. Bloembergen, and R. Savani,
+\newblock ``Lenient multi-agent deep reinforcement learning,''
+\newblock in {\em Proceedings of the 17th Conference on Autonomous Agents and
+  MultiAgent Systems}, 2018, pp. 443--451.
+
+\bibitem{FoersterFANW17}
+J.~N. Foerster, G. Farquhar, T. Afouras, N. Nardelli, and S. Whiteson,
+\newblock ``Counterfactual multi-agent policy gradients,''
+\newblock 2018.
+
+\bibitem{Yong2001}
+C.~H. Yong and R. Miikkulainen,
+\newblock ``Cooperative coevolution of multi-agent systems,''
+\newblock Tech. {R}ep., 2001.
+
+\bibitem{Pinheiro2018aamas}
+F.~L. Pinheiro and F.~P. Santos,
+\newblock ``Local wealth redistribution promotes cooperation in multiagent
+  systems,''
+\newblock in {\em Proceedings of the 17th Conference on Autonomous Agents and
+  MultiAgent Systems}, 2018, pp. 786--794.
+
+\bibitem{Shao2017}
+K. Shao, Y. Zhu, and D. Zhao,
+\newblock ``Cooperative reinforcement learning for multiple units combat in
+  starcraft,''
+\newblock in {\em 2017 IEEE Symposium Series on Computational Intelligence
+  (SSCI)}, 2017, pp. 1--6.
+
+\bibitem{Hu2010}
+Z. Hu and D. Zhao,
+\newblock ``Reinforcement learning for multi-agent patrol policy,''
+\newblock in {\em 9th IEEE International Conference on Cognitive Informatics},
+  2010, pp. 530--535.
+
+\bibitem{Marzag2017aamas}
+D.~K. Marzag{\~{a}}o, N. Rivera, C. Cooper, P. McBurney, and K.
+  Steinh{\"{o}}fel,
+\newblock ``Multi-agent flag coordination games,''
+\newblock in {\em Proceedings of the 16th Conference on Autonomous Agents and
+  MultiAgent Systems}, 2017, pp. 1442--1450.
+
+\bibitem{Bryant2018}
+B.~D. Bryant and R. Miikkulainen,
+\newblock {\em A Neuroevolutionary Approach to Adaptive Multi-agent Teams}, pp.
+  87--115,
+\newblock 2018.
+
+\bibitem{Guestrin2002}
+C. Guestrin, M.~G. Lagoudakis, and R. Parr,
+\newblock ``Coordinated reinforcement learning,''
+\newblock in {\em Proceedings of the Nineteenth International Conference on
+  Machine Learning}, 2002, pp. 227--234.
+
+\bibitem{Zhang2014}
+Z. Zhang and D. Zhao,
+\newblock ``Clique-based cooperative multiagent reinforcement learning using
+  factor graphs,''
+\newblock {\em Journal of Automatica Sinica}, vol. 1, no. 3, pp. 248--256,
+  2014.
+
+\bibitem{Zhang2013}
+Z. Zhang and D. Zhao,
+\newblock ``Cooperative multiagent reinforcement learning using factor
+  graphs,''
+\newblock in {\em 4th International Conference on Intelligent Control and
+  Information Processing}, 2013, pp. 797--802.
+
+\bibitem{amato2015}
+C. Amato and F.~A. Oliehoek,
+\newblock ``Scalable planning and learning for multiagent pomdps,''
+\newblock in {\em Proceedings of the 29th AAAI Conference on Artificial
+  Intelligence}, 2015, pp. 1995--2002.
+
+\bibitem{isaacs1999differential}
+R. Isaacs,
+\newblock {\em Differential games: a mathematical theory with applications to
+  warfare and pursuit, control and optimization},
+\newblock 1999.
+
+\bibitem{liu2010novel}
+R. Liu et~al.,
+\newblock ``A novel approach based on evolutionary game theoretic model for
+  multi-player pursuit evasion,''
+\newblock in {\em International Conference on Computer, Mechatronics, Control
+  and Electronic Engineering}, 2010, vol.~1, pp. 107--110.
+
+\bibitem{wang2015research}
+H. Wang, Q. Yue, and J. Liu,
+\newblock ``Research on pursuit-evasion games with multiple heterogeneous
+  pursuers and a high speed evader,''
+\newblock in {\em 27th Chinese Control and Decision Conference}, 2015, pp.
+  4366--4370.
+
+\bibitem{alexopoulos2015iros}
+A. Alexopoulos, T. Schmidt, and E. Badreddin,
+\newblock ``Cooperative pursue in pursuit-evasion games with unmanned aerial
+  vehicles,''
+\newblock in {\em International Conference on Intelligent Robots and Systems},
+  2015, pp. 4538--4543.
+
+\bibitem{paszke2017automatic}
+A. Paszke, S. Gross, S. Chintala, G. Chanan, E. Yang, Z. DeVito, Z. Lin, A.
+  Desmaison, L. Antiga, and A. Lerer,
+\newblock ``Automatic differentiation in pytorch,''
+\newblock in {\em Neural Information Processing Systems Workshop}, 2017.
+
+\bibitem{KingmaB2014ICLR}
+D.~P. Kingma and J. Ba,
+\newblock ``Adam: {A} method for stochastic optimization,''
+\newblock {\em CoRR}, vol. abs/1412.6980, 2014.
+
+\end{thebibliography}

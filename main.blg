@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: IEEEbib.bst
+Database file #1: refs.bib
+I was expecting a `,' or a `}'---line 884 of file refs.bib
+ :  
+ :  year = {2005},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1181 of file refs.bib
+ :  
+ :  pages = {278--287}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in antoniades2003
+Warning--empty journal in Hespanha01greedycontrol
+Warning--empty journal in OmidshafieiPAHV17
+Warning--empty journal in FoersterFANW17
+Warning--empty institution in Yong2001
+Warning--empty publisher in Bryant2018
+Warning--empty publisher in isaacs1999differential
+You've used 43 entries,
+            1838 wiz_defined-function locations,
+            699 strings with 12405 characters,
+and the built_in function-call counts, 13048 in all, are:
+= -- 1141
+> -- 592
+< -- 27
++ -- 213
+- -- 170
+* -- 929
+:= -- 1863
+add.period$ -- 43
+call.type$ -- 43
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 50
+duplicate$ -- 648
+empty$ -- 1241
+format.name$ -- 170
+if$ -- 3065
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 44
+newline$ -- 218
+num.names$ -- 43
+pop$ -- 188
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 439
+stack$ -- 0
+substring$ -- 893
+swap$ -- 282
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 7
+while$ -- 119
+width$ -- 45
+write$ -- 462
+(There were 2 error messages)
